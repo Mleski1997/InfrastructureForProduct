@@ -1,2 +1,4 @@
 creation_rules:
-  -age: age18j46dq0du0ys58snqpjfj30qfx4y37xd85mqzp7wvzx32llcdp2shzn3w8
+  - age: age18j46dq0du0ys58snqpjfj30qfx4y37xd85mqzp7wvzx32llcdp2shzn3w8
+encrypted_files:
+  - secrets.tfvars
